@@ -1,0 +1,12 @@
+MS Training AIML
+
+git init
+git add demo.py
+git log
+git commit -m "first commit"
+git branch -M main
+git remote add origin (GitHub id)
+git push -u origin main
+
+python -m pip install numpy
+python -m pip install scikit-learn
