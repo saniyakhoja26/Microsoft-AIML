@@ -1,18 +1,1 @@
-# Python
-__pycache__/
-*.pyc
-*.pyo
 
-# Virtual Environment
-venv/
-.env/
-
-# Jupyter
-.ipynb_checkpoints/
-
-# VS Code
-.vscode/
-
-# OS files
-.DS_Store
-Thumbs.db
